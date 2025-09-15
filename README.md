@@ -10,23 +10,23 @@ I'm driven by curiosity and a genuine desire to solve real-world problems. I bel
 - 💡 Passionate about finding solutions and building useful things
 - 🤝 Love collaborating and learning from others
 - 🧩 Enjoy working on projects that help people or make life better
-- 🌍 Based in [Your Location]
-- 📫 Reach me at: [your-email@example.com] | [LinkedIn](https://linkedin.com/in/yourusername)
+- 🌍 Based in Dakar,SN 
+- 📫 Reach me at: bonmerciel@gmail.com
 - ✨ Always exploring new technologies and creative ideas
+- my porfolio web site : https://portfolio-gvqm.vercel.app
 
-## 🏗️ Some Projects I'm Proud of
+## 🤝 Collaboration
+- I enjoy teaming up with others for shared goals.
+- Open to feedback, ideas, and new perspectives.
+- Always interested in meeting people who want to build something meaningful.
 
-- [Portfolio](https://github.com/RBen19/portfolio): My personal site where I share my journey and creations.
-- [IDOC_FRONT_Administration](https://github.com/RBen19/IDOC_FRONT_Administration): A React dashboard for easy document management.
-- [IDOCBACKEND](https://github.com/RBen19/IDOCBACKEND): Backend services built with reliability and growth in mind.
-- [Minio-elastic-mongoDB](https://github.com/RBen19/Minio-elastic-mongoDB): Bringing together storage and search for real applications.
-- [test-ui](https://github.com/traorecheikh/test-ui): Front-end experiments and learning in action.
+## 📈 My GitHub Journey
 
-## 📊 My GitHub Journey
+Here’s a glimpse of my ongoing progress and participation—focused on consistency, learning, and contribution rather than big numbers.
 
-![RBen19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RBen19&show_icons=true&theme=radical)
-![RBen19's Streak Stats](https://streak-stats.demolab.com/?user=RBen19&theme=radical)
-![RBen19's Contribution Graph](https://github-contribution-graph.vercel.app/api?username=RBen19&theme=radical)
+![RBen19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RBen19&show_icons=true&theme=gruvbox)
+![RBen19's Streak Stats](https://streak-stats.demolab.com/?user=RBen19&theme=gruvbox)
+![RBen19's Contribution Graph](https://github-contribution-graph.vercel.app/api?username=RBen19&theme=gruvbox)
 
 ## ✨ Values & Vision
 - 🌟 Believe in teamwork and the power of shared ideas
