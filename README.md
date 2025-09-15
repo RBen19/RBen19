@@ -24,9 +24,15 @@ I'm driven by curiosity and a genuine desire to solve real-world problems. I bel
 
 Here’s a glimpse of my ongoing progress and participation—focused on consistency, learning, and contribution rather than big numbers.
 
+
+## 📈 My GitHub Journey
+
 ![RBen19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RBen19&show_icons=true&theme=gruvbox)
 ![RBen19's Streak Stats](https://streak-stats.demolab.com/?user=RBen19&theme=gruvbox)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RBen19&theme=gruvbox)
+![GitHub Profile Trophy](https://github-profile-trophy.vercel.app/?username=RBen19&theme=gruvbox&row=1&column=7)
+
+
 
 ## ✨ Values & Vision
 - 🌟 Believe in teamwork and the power of shared ideas
