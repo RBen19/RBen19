@@ -26,7 +26,7 @@ Here’s a glimpse of my ongoing progress and participation—focused on consist
 
 ![RBen19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RBen19&show_icons=true&theme=gruvbox)
 ![RBen19's Streak Stats](https://streak-stats.demolab.com/?user=RBen19&theme=gruvbox)
-![RBen19's Contribution Graph](https://github-contribution-graph.vercel.app/api?username=RBen19&theme=gruvbox)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RBen19&theme=gruvbox)
 
 ## ✨ Values & Vision
 - 🌟 Believe in teamwork and the power of shared ideas
